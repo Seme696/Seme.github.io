@@ -1,0 +1,71 @@
+body{
+  width: 85%;
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: "helvetica", Sans-Serif;
+}
+
+h1{
+  color: white;
+  background-color: black;
+  text-align: center;
+  
+}
+h3{
+  border: 2px solid black;
+  border-bottom: 2px solid black;
+}
+ .cabecalho{
+  color: white;
+  background-color: black;
+  display: inline-block;
+  text-align: center;
+  font-size: 0.9rem;
+  font-weight: bold;
+  letter-spacing: 0.20em;
+  text-align: center;
+}
+a{
+  color: white;
+d}
+h{
+  color: white;
+  display: flex;
+  ustify-content: space-envely;
+  flex-wrap: wrap;
+  padding-left: 2%;
+  background-color: black;
+  
+  
+}
+
+p {
+  text-align:justify ;
+  text-indent: 10%;
+}
+.sobre{
+  
+  border-bottom: 1px solid black;
+}
+.Anselmo{
+  color: red;
+}
+
+.pensar{
+  padding-bottom: 1.5rem;
+  
+}
+.frases{
+  font-size: 1.60rem;
+  color: green;
+  padding-top: 0rem;
+  
+}
+img{
+  width: 15%;
+}
+
+.imagen{
+  text-align: center;
+}
